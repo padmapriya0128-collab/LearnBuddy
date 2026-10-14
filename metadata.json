@@ -1,0 +1,6 @@
+{
+  "name": "LearnBuddy",
+  "description": "Personalized AI Teacher for school students from Class 1 to Class 12 with multilingual lessons, voice customization, interactive visualizations, teach-back feedback, automatic notes, and games.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
